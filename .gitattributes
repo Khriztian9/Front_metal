@@ -1,0 +1,14 @@
+* text=auto eol=lf
+
+# Scripts
+*.sh   text eol=lf
+*.ps1  text eol=crlf
+*.bat  text eol=crlf
+
+# Binarios (sin cambios de EOL)
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.svg  text
+*.ico  binary
